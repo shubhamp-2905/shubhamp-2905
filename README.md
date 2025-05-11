@@ -1,8 +1,9 @@
 <h1 align="center">Hey there! I'm Shubham Paikrao 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=🚀+Dedicated+to+Growth+and+Code;🌱+Data+Science+%7C+MERN+Stack+Dev;💻+Full-Stack+Problem+Solver;🔥+Making+Dreams+Happen+with+Tech!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Dedicated+to+Growth+and+Code;Data+Science+%7C+MERN+Stack+Developer;Full+Stack+Problem+Solver;Building+Tech+that+Solves+Problems" alt="Typing SVG" />
 </p>
+
 
 ---
 
