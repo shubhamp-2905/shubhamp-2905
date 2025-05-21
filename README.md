@@ -13,7 +13,6 @@
 - 🧠 **Full-Stack MERN Developer + Data Science Enthusiast**
 - 🧑‍💻 Currently working on multiple **React.js** and **ML-based Projects**
 - 🏆 Recognized as **Best Performing Intern @Sumago Infotech** and **Emerging Mentor @Let's Speak English**
-- 📊 Delivered a Seminar on **LinkedIn Growth for Data Science Students**
 - 🎯 Always aiming for **Real-World Impact** through tech
 
 ---
