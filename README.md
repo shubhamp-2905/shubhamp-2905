@@ -11,7 +11,7 @@
 
 - 🎓 Pursuing **B.Tech in Computer Science (Data Science)** from **VIIT Pune**
 - 🧠 **Full-Stack MERN Developer + Data Science Enthusiast**
-- 🧑‍💻 Currently working on multiple **React.js** and **ML-based Projects**
+- 🧑‍💻 Currently working on multiple **React.js** and **ML/DL-based Projects**
 - 🏆 Recognized as **Best Performing Intern @Sumago Infotech** and **Emerging Mentor @Let's Speak English**
 - 🎯 Always aiming for **Real-World Impact** through tech
 
