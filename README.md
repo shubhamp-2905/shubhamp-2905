@@ -88,4 +88,3 @@
 
 ---
 
-If you'd like this as a downloadable `.md` file, let me know and I can generate that for you!
