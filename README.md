@@ -1,8 +1,3 @@
-<!-- Animated Typing Intro -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2500&pause=1000&color=FF4D4D&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Shubham+Paikrao+👋;AI+%26+Data+Science+Enthusiast+🤖;MERN+Developer+💻;Designer+%26+Creator+🎨;I+build+solutions+that+blend+AI+x+Web+x+Design" />
-</p>
-
 <!-- Profile Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff4d4d,100:1a1aff&height=220&section=header&text=Shubham%20Paikrao&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
@@ -18,9 +13,9 @@
 ---
 
 ### 🧑‍💻 About Me
-- 🎓 B.Tech (CSE – Data Science), **VIIT Pune**  
+- 🎓 B.Tech (CSE – Data Science), **VIIT Pune** 
 - 💼 Interned at **Ediglobe (Data Science)** & **Sumago Infotech (MERN Developer)**  
-- 🧪 Skilled in **ML, GenAI, NLP, Data Analytics, MERN, and CI/CD**    
+- 🧪 Skilled in **ML, GenAI, NLP, Data Analytics, MERN, and CI/CD**   
 - 📫 Reach me at: **shubhampaikrao610@gmail.com**  
 - ⚡ Motto: *I build, I break, I learn, I repeat*  
 
@@ -28,8 +23,7 @@
 
 ### 🚀 Tech Arsenal
 <p align="center">
-  <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif" width="40"/> <!-- Small animated code gif -->
-
+  
   <!-- Languages -->
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge"/>
@@ -60,16 +54,12 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubhamp-2905&show_icons=true&theme=radical&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamp-2905&layout=compact&theme=radical&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shubhamp-2905&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamp-2905&layout=compact&theme=radical" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamp-2905&theme=radical&hide_border=true" alt="Streak Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shubhamp-2905&theme=radical&margin-w=10&no-frame=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamp-2905&theme=radical" alt="Streak Stats"/>
 </p>
 
 ---
@@ -77,19 +67,19 @@
 ### 🌟 Featured Projects
 <p align="center">
   <a href="https://github.com/shubhamp-2905/Resume-Analyzer-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhamp-2905&repo=Resume-Analyzer-&theme=radical&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhamp-2905&repo=Resume-Analyzer-&theme=radical" />
   </a>
   <a href="https://github.com/shubhamp-2905/ANTMAN---AI-Assistant-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhamp-2905&repo=ANTMAN---AI-Assistant-&theme=radical&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhamp-2905&repo=ANTMAN---AI-Assistant-&theme=radical" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/shubhamp-2905/Legal-chat">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhamp-2905&repo=Legal-chat&theme=radical&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhamp-2905&repo=Legal-chat&theme=radical" />
   </a>
   <a href="https://github.com/shubhamp-2905/fullstack-chat-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhamp-2905&repo=fullstack-chat-app&theme=radical&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhamp-2905&repo=fullstack-chat-app&theme=radical" />
   </a>
 </p>
 
@@ -110,11 +100,6 @@
 </p>
 
 ---
-
-<!-- Contribution Snake -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ashutosh00710/github-readme-activity-graph/master/github-contribution-grid-snake.svg"/>
-</p>
 
 <!-- Footer -->
 <p align="center">
