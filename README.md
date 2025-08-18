@@ -6,17 +6,17 @@
 <h2 align="center">⚡ Hey there, I'm Shubham 👋</h2>
 
 <p align="center">
-  🚀 Data Science Explorer | 🎨 Designer | 💻 Full-Stack Developer <br/>
-  Building solutions at the intersection of <b>AI × Web × Design</b>.
+  🤖 AI & Data Science Explorer | 💻 MERN Developer | 🎨 Designer <br/>
+  Building solutions at the intersection of <b>AI × Data × Web</b>.
 </p>
 
 ---
 
 ### 🧑‍💻 About Me
-- 🌱 Currently learning **Data Science & Advanced DSA**  
-- 🎨 Passionate about **UI/UX + Full-stack projects**  
-- 🚀 Exploring **AI-powered product development**  
-- 📫 Reach me at: **shubhamp.graphics@gmail.com**  
+- 🎓 B.Tech (CSE – Data Science), **VIIT Pune**  
+- 💼 Interned at **Ediglobe (Data Science)** & **Sumago Infotech (MERN Developer)**  
+- 🧪 Skilled in **ML, GenAI, NLP, Data Analytics, MERN, and CI/CD**    
+- 📫 Reach me at: **shubhampaikrao610@gmail.com**  
 - ⚡ Motto: *I build, I break, I learn, I repeat*  
 
 ---
@@ -29,13 +29,21 @@
   <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/JavaScript-FFD43B?logo=javascript&logoColor=black&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=for-the-badge"/>
-  
+
   <!-- Frameworks -->
   <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge"/>
-  
+
+  <!-- Data Science & AI -->
+  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?logo=huggingface&logoColor=black&style=for-the-badge"/>
+
   <!-- Tools -->
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge"/>
@@ -58,22 +66,37 @@
 
 ### 🌟 Featured Projects
 <p align="center">
-  <a href="https://github.com/shubhamp-2905/AgroCulture">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhamp-2905&repo=AgroCulture&theme=radical" />
+  <a href="https://github.com/shubhamp-2905/Resume-Analyzer-">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhamp-2905&repo=Resume-Analyzer-&theme=radical" />
   </a>
-  <a href="https://github.com/shubhamp-2905/Print-Easy">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhamp-2905&repo=Print-Easy&theme=radical" />
+  <a href="https://github.com/shubhamp-2905/ANTMAN---AI-Assistant-">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhamp-2905&repo=ANTMAN---AI-Assistant-&theme=radical" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/shubhamp-2905/Legal-chat">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhamp-2905&repo=Legal-chat&theme=radical" />
+  </a>
+  <a href="https://github.com/shubhamp-2905/fullstack-chat-app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhamp-2905&repo=fullstack-chat-app&theme=radical" />
   </a>
 </p>
 
 ---
 
+### 🏆 Achievements
+- 🥈 Runner-up — **Make Your Own Jarvis Hackathon**  
+- 🏅 **Best Performing Intern** — Sumago Infotech (Feb 2024)  
+- 🌱 Emerging Mentor — Let’s Speak Academy  
+
+---
+
 ### 🌍 Connect With Me
 <p align="center">
-  <a href="https://linkedin.com/in/shubham-paikrao"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
-  <a href="https://instagram.com/yourusername"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge"/></a>
-  <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=x&logoColor=white&style=for-the-badge"/></a>
-  <a href="mailto:shubhamp.graphics@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://www.linkedin.com/in/shubham-paikrao-7848162a7/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://portfolio-shubham27.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-111111?logo=vercel&logoColor=white&style=for-the-badge"/></a>
+  <a href="mailto:shubhampaikrao610@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge"/></a>
 </p>
 
 ---
