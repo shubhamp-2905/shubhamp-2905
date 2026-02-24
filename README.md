@@ -158,21 +158,6 @@ me.say_hi()
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shubhamp-2905/shubhamp-2905/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shubhamp-2905/shubhamp-2905/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shubhamp-2905/shubhamp-2905/output/github-contribution-grid-snake.svg">
-</picture>
-
-> ⚙️ *To enable the snake animation, set up [this GitHub Action](https://github.com/Platane/snk) in your profile repo.*
-
-</div>
-
----
 
 <div align="center">
 
