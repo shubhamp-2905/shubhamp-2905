@@ -1,8 +1,7 @@
 <div align="center">
 
-<a href="https://portfolio-shubham27.vercel.app/">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6d28d9,8b5cf6,a78bfa&height=200&section=header&text=Shubham%20Paikrao&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20LangGraph%20%26%20RAG%20Builder&descSize=16&descColor=e9d5ff&descAlignY=58" width="100%"/>
-</a>
+# Shubham Paikrao
+### AI Engineer · Full Stack Developer · LangGraph & RAG Builder
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=1200&color=7C3AED&center=true&vCenter=true&width=680&lines=%F0%9F%A4%96+Building+production-ready+AI+agents;%E2%9A%A1+LangGraph+%C2%B7+RAG+%C2%B7+FastAPI+%C2%B7+MERN;%F0%9F%8F%86+CGPA+9.06+%7C+Best+Intern+%7C+Hackathon+Winner;%F0%9F%94%81+I+build%2C+I+break%2C+I+learn%2C+I+repeat)](https://git.io/typing-svg)
 
@@ -276,6 +275,6 @@ AI-powered legal assistant with <strong>RAG architecture</strong> for accurate, 
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6d28d9,8b5cf6,a78bfa&height=100&section=footer&text=Made%20with%20%E2%9D%A4%EF%B8%8F%20%26%20%E2%98%95%20%E2%80%94%20Star%20%E2%AD%90%20repos%20you%20find%20useful!&fontSize=14&fontColor=ffffff&animation=twinkling" width="100%"/>
+*Made with ❤️ and lots of ☕ — Star ⭐ repos you find useful!*
 
 </div>
